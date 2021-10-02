@@ -6,7 +6,7 @@ public class sample {
 		String str= "Hello";
 		int a=7;
 		System.out.println("The string along with number "+str+" "+a);
+		
 	}
-
 }
 
